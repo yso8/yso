@@ -13,6 +13,9 @@ body{
 .text-brown{
     color: #362323;
 }
+a.text-brown:hover{
+    color: #794929;
+}
 .section-beige-1{
     background-color: #f0dfd0;
 }
