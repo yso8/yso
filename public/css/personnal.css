@@ -204,7 +204,7 @@ input:focus, textarea:focus {
     background-color: #f4e4d6;
     border-color: #e0bc99;
 }
-.contact-form .form-control:hover {
+.contact-form .form-control:focus {
     min-height: 38px;
     border-radius: 0px;
     background-color: #f4e4d6;
